@@ -1,0 +1,6 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+QwdEZLd,Email Opened,127.0.0.1,0,0,2026-07-02T01:07:11.556458492Z,false,2026-07-02T01:09:04.593744614Z,bruno.rios@intrabank.pe,Bruno,Ríos,Soporte TI N2
+N1IBHPa,Email Opened,127.0.0.1,0,0,2026-07-02T01:07:11.577273382Z,true,2026-07-02T01:08:22.398137152Z,diego.vargas@intrabank.pe,Diego,Vargas,Jefe de Mesa de Ayuda
+QL5emyI,Clicked Link,127.0.0.1,0,0,2026-07-02T01:07:11.594051233Z,false,2026-07-02T01:08:55.173663909Z,karina.chavez@intrabank.pe,Karina,Chávez,Soporte TI N1
+8TuHUcC,Email Opened,127.0.0.1,0,0,2026-07-02T01:07:11.609745563Z,true,2026-07-02T01:08:06.242829128Z,lucia.torres@intrabank.pe,Lucía,Torres,CISO
+ldqJSGU,Email Opened,127.0.0.1,0,0,2026-07-02T01:07:11.670857573Z,true,2026-07-02T01:08:46.352898207Z,marco.salas@intrabank.pe,Marco,Salas,Analista de TI

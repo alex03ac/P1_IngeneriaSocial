@@ -1,0 +1,13 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+wi5b6Fp,Email Opened,127.0.0.1,0,0,2026-07-01T22:38:08.332410589Z,false,2026-07-01T23:13:49.403961058Z,andres.flores@intrabank.pe,Andrés,Flores,Gerente de Operaciones y TI
+FURBmPo,Submitted Data,127.0.0.1,0,0,2026-07-01T22:38:08.348599767Z,false,2026-07-01T23:10:20.64647495Z,carmen.huanca@intrabank.pe,Carmen,Huanca,Analista de Operaciones Senior
+EkCgFE6,Clicked Link,127.0.0.1,0,0,2026-07-01T22:38:08.361559528Z,false,2026-07-01T23:12:12.943686622Z,diana.ccori@intrabank.pe,Diana,Ccori,Analista de Operaciones
+WJps0JK,Email Opened,127.0.0.1,0,0,2026-07-01T22:38:08.381658086Z,true,2026-07-01T23:13:33.60062259Z,fatima.condori@intrabank.pe,Fátima,Condori,Operador de Transferencias
+eZlPUsF,Submitted Data,127.0.0.1,0,0,2026-07-01T22:38:08.399978106Z,false,2026-07-01T23:11:05.481812113Z,hector.mamani@intrabank.pe,Héctor,Mamani,Operador de Transferencias
+yQX2ULH,Submitted Data,127.0.0.1,0,0,2026-07-01T22:38:08.416192427Z,false,2026-07-01T23:10:42.132483753Z,jose.quispeb@intrabank.pe,José,Quispe B,Analista de Operaciones
+YWWVCrb,Submitted Data,127.0.0.1,0,0,2026-07-01T22:38:08.436354974Z,false,2026-07-01T22:56:33.044160033Z,luis.pariona@intrabank.pe,Luis,Pariona,Analista de Operaciones
+0qKRxIi,Email Opened,127.0.0.1,0,0,2026-07-01T22:38:08.465993206Z,false,2026-07-01T23:08:38.62840786Z,maria.quispe@intrabank.pe,María,Quispe,Gerente de Finanzas y Tesorería
+8R76LfB,Submitted Data,127.0.0.1,0,0,2026-07-01T22:38:08.483421414Z,false,2026-07-01T23:09:32.433649001Z,paola.zevallos@intrabank.pe,Paola,Zevallos,Analista de Tesorería
+PT044KL,Submitted Data,127.0.0.1,0,0,2026-07-01T22:38:08.506525556Z,false,2026-07-01T22:52:33.00630275Z,renzo.castillo@intrabank.pe,Renzo,Castillo,Analista de Operaciones
+ztkeqjj,Email Opened,127.0.0.1,0,0,2026-07-01T22:38:08.551534283Z,false,2026-07-01T23:11:36.303449659Z,roberto.levano@intrabank.pe,Roberto,Lévano,Analista de Tesorería Senior
+TBxnG1C,Email Opened,127.0.0.1,0,0,2026-07-01T22:38:08.563815613Z,false,2026-07-01T23:11:24.439013371Z,sergio.tello@intrabank.pe,Sergio,Tello,Analista de Tesorería

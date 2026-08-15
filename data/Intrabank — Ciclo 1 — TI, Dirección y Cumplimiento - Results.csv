@@ -1,0 +1,13 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+pXwOgUd,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:51.991654868Z,false,2026-07-01T23:31:25.429135103Z,bruno.rios@intrabank.pe,Bruno,Ríos,Soporte TI N2
+5U2SNSK,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:52.01426576Z,true,2026-07-01T23:31:16.804085124Z,diego.vargas@intrabank.pe,Diego,Vargas,Jefe de Mesa de Ayuda
+RuWRaKC,Clicked Link,127.0.0.1,0,0,2026-07-01T23:24:52.039189532Z,false,2026-07-01T23:30:27.647482315Z,fernando.rios@intrabank.pe,Fernando,Ríos,Gerente de Riesgos
+PH7BXvO,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:52.05667144Z,false,2026-07-01T23:30:12.435347554Z,fernando.condori@intrabank.pe,Fernando,Condori,Subgerente de Auditoría
+AtWzq1S,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:52.078263788Z,false,2026-07-01T23:29:52.564136833Z,jorge.salazar@intrabank.pe,Jorge,Salazar,Gerente General
+5jdC3Zv,Submitted Data,127.0.0.1,0,0,2026-07-01T23:24:52.09943742Z,false,2026-07-01T23:28:34.329562609Z,karina.chavez@intrabank.pe,Karina,Chávez,Soporte TI N1
+iizDOcd,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:52.117934276Z,true,2026-07-01T23:29:21.200989056Z,lucia.torres@intrabank.pe,Lucía,Torres,CISO
+FqgCZHJ,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:52.136462807Z,false,2026-07-01T23:28:12.572688635Z,marco.salas@intrabank.pe,Marco,Salas,Analista de TI
+LwRWaAL,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:52.156725286Z,false,2026-07-01T23:27:49.33838872Z,patricia.nunez@intrabank.pe,Patricia,Núñez,Gerente de Cumplimiento
+NVI2Dr1,Submitted Data,127.0.0.1,0,0,2026-07-01T23:24:52.176146044Z,false,2026-07-01T23:27:01.623430342Z,renato.palma@intrabank.pe,Renato,Palma,Analista Legal
+HO8nNP1,Submitted Data,127.0.0.1,0,0,2026-07-01T23:24:52.193914967Z,false,2026-07-01T23:27:37.622125935Z,valeria.chavez@intrabank.pe,Valeria,Chávez,Analista Cumplimiento AML/CFT
+3fOj4El,Email Opened,127.0.0.1,0,0,2026-07-01T23:24:52.218519815Z,false,2026-07-01T23:26:03.45706054Z,yolanda.sucari@intrabank.pe,Yolanda,Sucari,Analista de Cumplimiento

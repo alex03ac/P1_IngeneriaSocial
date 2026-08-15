@@ -1,0 +1,28 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+BlaYINR,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:30.75715635Z,false,2026-07-01T23:49:45.674728319Z,alfredo.huayta@intrabank.pe,Alfredo,Huayta,Asesor de Negocios MYPE
+bUcb0AT,Email Opened,127.0.0.1,0,0,2026-07-01T23:35:30.817128964Z,true,2026-07-01T23:49:09.10582805Z,andres.floresac@intrabank.pe,Andrés,Flores AC,Analista Atención al Cliente
+BzaPWoF,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:30.831077312Z,false,2026-07-01T23:48:43.11083959Z,brayan.ccorahua@intrabank.pe,Brayan,Ccorahua,Ejecutivo Atención al Cliente
+H7jjlao,Email Opened,127.0.0.1,0,0,2026-07-01T23:35:30.869273105Z,false,2026-07-01T23:48:17.37553949Z,carla.mendoza@intrabank.pe,Carla,Mendoza,Gerente de RR.HH.
+TtvgMmm,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:30.88337412Z,false,2026-07-01T23:47:59.67071849Z,cinthia.flores@intrabank.pe,Cinthia,Flores,Analista de Créditos MYPE
+HHEbSzk,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:30.894855471Z,false,2026-07-01T23:47:20.681003862Z,cesar.huaman@intrabank.pe,César,Huamán,Ejecutivo Atención al Cliente
+gDVKyVV,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:30.913943182Z,false,2026-07-01T23:46:49.312776274Z,deysi.turpo@intrabank.pe,Deysi,Turpo,Analista de RR.HH.
+gHK73Au,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:30.933774818Z,false,2026-07-01T23:46:24.657224038Z,edwin.soto@intrabank.pe,Edwin,Soto,Ejecutivo Atención al Cliente
+xcBrOEa,Clicked Link,127.0.0.1,0,0,2026-07-01T23:35:30.954436289Z,false,2026-07-01T23:45:50.748760301Z,flor.quispec@intrabank.pe,Flor,Quispe C,Asesora de Negocios MYPE
+CNZTsoJ,Clicked Link,127.0.0.1,0,0,2026-07-01T23:35:30.971673087Z,false,2026-07-01T23:45:28.687905411Z,giuliana.ramos@intrabank.pe,Giuliana,Ramos,Asesora de Negocios MYPE
+K3HLzFP,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:30.989391435Z,false,2026-07-01T23:50:58.546042387Z,hugo.ccama@intrabank.pe,Hugo,Ccama,Analista Créditos Corporativo
+zOXy3a9,Clicked Link,127.0.0.1,0,0,2026-07-01T23:35:31.006996749Z,false,2026-07-01T23:45:11.005198114Z,ivan.cardenas@intrabank.pe,Iván,Cárdenas,Asesor de Negocios MYPE
+JVdKdOn,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.02226222Z,false,2026-07-01T23:44:41.811898657Z,jhon.paucar@intrabank.pe,Jhon,Paucar,Ejecutivo Atención al Cliente
+PuB6Qwx,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.051941126Z,false,2026-07-01T23:44:09.073094509Z,jonatan.luque@intrabank.pe,Jonatan,Luque,Asistente Administrativo
+dTzYB0S,Clicked Link,127.0.0.1,0,0,2026-07-01T23:35:31.070703526Z,false,2026-07-01T23:43:36.867517582Z,lizbeth.arce@intrabank.pe,Lizbeth,Arce,Ejecutiva Atención al Cliente
+ng3NXiH,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.109938704Z,false,2026-07-01T23:43:14.11171615Z,marco.gutierrez@intrabank.pe,Marco,Gutierrez,Ejecutivo Atención al Cliente
+lPGEonm,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.127084253Z,false,2026-07-01T23:42:48.587310642Z,milagros.tapia@intrabank.pe,Milagros,Tapia,Ejecutiva Atención al Cliente
+7oeqHbK,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.146975861Z,false,2026-07-01T23:42:16.408461693Z,mirian.coaquira@intrabank.pe,Mirian,Coaquira,Analista de RR.HH.
+3jt1RJ6,Email Opened,127.0.0.1,0,0,2026-07-01T23:35:31.165443054Z,false,2026-07-01T23:41:38.303366477Z,natalia.espinoza@intrabank.pe,Natalia,Espinoza,Supervisora Atención al Cliente
+p7daTIt,Email Opened,127.0.0.1,0,0,2026-07-01T23:35:31.179888492Z,false,2026-07-01T23:41:23.429186434Z,noemi.callo@intrabank.pe,Noemí,Callo,Asistente Administrativo
+CXk6MoG,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.200469059Z,false,2026-07-01T23:41:07.11698067Z,percy.ticona@intrabank.pe,Percy,Ticona,Asesor de Negocios Corporativo
+WgNSzja,Email Opened,127.0.0.1,0,0,2026-07-01T23:35:31.228840781Z,false,2026-07-01T23:40:39.014170238Z,rocio.palomino@intrabank.pe,Rocío,Palomino,Ejecutiva Atención al Cliente
+y63olgc,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.25137034Z,false,2026-07-01T23:40:25.33110409Z,rolando.apaza@intrabank.pe,Rolando,Apaza,Analista de Créditos MYPE
+7eDj8s1,Email Opened,127.0.0.1,0,0,2026-07-01T23:35:31.26541738Z,false,2026-07-01T23:39:55.386525224Z,rosa.paredes@intrabank.pe,Rosa,Paredes,Gerente de Banca MYPE
+LBswoF7,Clicked Link,127.0.0.1,0,0,2026-07-01T23:35:31.287448394Z,false,2026-07-01T23:39:40.147602377Z,sandra.vilca@intrabank.pe,Sandra,Vilca,Ejecutiva Atención al Cliente
+axgSf38,Submitted Data,127.0.0.1,0,0,2026-07-01T23:35:31.30296231Z,false,2026-07-01T23:39:12.447279044Z,vanesa.lazo@intrabank.pe,Vanesa,Lazo,Asesora de Negocios MYPE
+kkNG1uk,Email Opened,127.0.0.1,0,0,2026-07-01T23:35:31.317350894Z,true,2026-07-01T23:38:18.202918061Z,yesenia.mamani@intrabank.pe,Yesenia,Mamani,Ejecutiva Atención al Cliente

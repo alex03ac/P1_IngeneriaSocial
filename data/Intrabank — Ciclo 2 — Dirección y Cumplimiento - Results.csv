@@ -1,0 +1,8 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+YWq70Oa,Submitted Data,127.0.0.1,0,0,2026-07-02T01:10:22.383127196Z,false,2026-07-02T01:11:13.71413482Z,fernando.rios@intrabank.pe,Fernando,Ríos,Gerente de Riesgos
+UJIRNcg,Email Opened,127.0.0.1,0,0,2026-07-02T01:10:22.397608295Z,false,2026-07-02T01:11:24.923429234Z,fernando.condori@intrabank.pe,Fernando,Condori,Subgerente de Auditoría
+TJifyQb,Email Opened,127.0.0.1,0,0,2026-07-02T01:10:22.41275498Z,false,2026-07-02T01:10:46.134658974Z,jorge.salazar@intrabank.pe,Jorge,Salazar,Gerente General
+aPjBVJu,Email Opened,127.0.0.1,0,0,2026-07-02T01:10:22.428827103Z,true,2026-07-02T01:11:41.630282251Z,patricia.nunez@intrabank.pe,Patricia,Núñez,Gerente de Cumplimiento
+FaruagI,Email Opened,127.0.0.1,0,0,2026-07-02T01:10:22.443836428Z,false,2026-07-02T01:12:01.68167507Z,renato.palma@intrabank.pe,Renato,Palma,Analista Legal
+v98OFxq,Clicked Link,127.0.0.1,0,0,2026-07-02T01:10:22.455378387Z,false,2026-07-02T01:11:53.075708527Z,valeria.chavez@intrabank.pe,Valeria,Chávez,Analista Cumplimiento AML/CFT
+a0fMLZP,Email Opened,127.0.0.1,0,0,2026-07-02T01:10:22.47741517Z,false,2026-07-02T01:12:09.604810219Z,yolanda.sucari@intrabank.pe,Yolanda,Sucari,Analista de Cumplimiento

@@ -1,0 +1,9 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+bcOd7uO,Email Opened,127.0.0.1,0,0,2026-07-02T00:57:25.562555595Z,true,2026-07-02T01:01:33.606601288Z,andres.flores@intrabank.pe,Andrés,Flores,Gerente de Operaciones y TI
+vPieGWE,Email Opened,127.0.0.1,0,0,2026-07-02T00:57:25.606988387Z,false,2026-07-02T00:59:43.540792669Z,carmen.huanca@intrabank.pe,Carmen,Huanca,Analista de Operaciones Senior
+HAHTWjn,Email Opened,127.0.0.1,0,0,2026-07-02T00:57:25.618964104Z,false,2026-07-02T01:00:26.567597928Z,diana.ccori@intrabank.pe,Diana,Ccori,Analista de Operaciones
+9xVrnhn,Email Opened,127.0.0.1,0,0,2026-07-02T00:57:25.635956388Z,true,2026-07-02T01:00:46.817546845Z,fatima.condori@intrabank.pe,Fátima,Condori,Operador de Transferencias
+8WtrdcP,Clicked Link,127.0.0.1,0,0,2026-07-02T00:57:25.649862135Z,false,2026-07-02T01:00:15.463224654Z,hector.mamani@intrabank.pe,Héctor,Mamani,Operador de Transferencias
+9kHhhyz,Submitted Data,127.0.0.1,0,0,2026-07-02T00:57:25.666521434Z,false,2026-07-02T01:00:01.972831853Z,jose.quispeb@intrabank.pe,José,Quispe B,Analista de Operaciones
+0lfD2tP,Clicked Link,127.0.0.1,0,0,2026-07-02T00:57:25.678530231Z,false,2026-07-02T00:59:29.579713288Z,luis.pariona@intrabank.pe,Luis,Pariona,Analista de Operaciones
+AMMXL9z,Submitted Data,127.0.0.1,0,0,2026-07-02T00:57:25.698551737Z,false,2026-07-02T00:58:57.888029593Z,renzo.castillo@intrabank.pe,Renzo,Castillo,Analista de Operaciones
